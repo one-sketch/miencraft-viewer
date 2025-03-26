@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #333;
+  }
+  
+  #canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  #controls {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+  }
+  button {
+    margin-right: 10px;
+  }
+  
